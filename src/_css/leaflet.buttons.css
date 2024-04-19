@@ -1,0 +1,27 @@
+.leaflet-control-level-buttons-panel {
+	font-weight: bold;
+}
+
+.leaflet-control-level-buttons-panel-a {
+	line-height: 1.8;
+}
+
+.leaflet-control-level-buttons-span {
+	font-size: 18px;
+	background-color: #fff;
+	font-weight: bold;
+	display: block;
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+}
+
+.leaflet-control-compass-button,
+.leaflet-control-markers-button,
+.leaflet-control-time-button {
+	font-size: 18px;
+	background-color: #fff;
+	font-weight: bold;
+	display: block;
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+}
