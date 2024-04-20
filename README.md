@@ -2,12 +2,14 @@
 
 This is to explore what the Warlocks call the [Magic Web](https://talesoftibia.com/libsearch?s=magic+web), drawing '[red lines](https://talesoftibia.com/libsearch?s=red+line)' on maps. We, in Edron call them [Ley Lines](https://tibia.fandom.com/wiki/Ley_Line).
 
-![Ley_Lines](https://github.com/s2ward/magic-web/assets/25346191/4429c7bb-6feb-4231-a7a5-8c0122615ed5)
-Credits: Tibia Wiki  
-
 > Player: ley  
 Milos: Most Tibian cultures have some knowledge about those straight lines that run across the landscape, connecting both, natural and sacred sites. Some also call them 'fairy paths' or 'spirit lines'. ...  
 Milos: As far as I know, in Zao they are called 'dragon lines'. Markers connecting the ley lines can be mounds, cairns, standing stones, stone circles, ponds, wells, shrines, temples or cross-roads.
+
+One example from Cip is from the Grimvale quest, where we can connect dark stone piles. ![](https://static.wikia.nocookie.net/tibia/images/9/9b/Dark_Stone_Pile.gif/revision/latest?cb=20171115021513&path-prefix=en&format=original)  
+
+![Ley_Lines](https://github.com/s2ward/magic-web/assets/25346191/4429c7bb-6feb-4231-a7a5-8c0122615ed5)
+Credits: Tibia Wiki  
 
 Essentialy, we can find connections between sites - and that can be fun and interesting.  
 
