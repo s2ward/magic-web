@@ -12,7 +12,8 @@
 		this.options = {};
 		this.isColorMap = true;
 	}
-	const URL_PREFIX = 'https://tibiamaps.github.io/tibia-map-data/';
+	//const URL_PREFIX = 'https://tibiamaps.github.io/tibia-map-data/';
+	const URL_PREFIX = 'https://magic-web.talesoftibia.com/';
 	// `KNOWN_TILES` is a placeholder for the whitelist of known tiles:
 	// https://tibiamaps.github.io/tibia-map-data/mapper/tiles.json
 	let KNOWN_TILES = null;
@@ -299,7 +300,7 @@
 			'crs': L.CRS.CustomZoom,
 			'fadeAnimation': false,
 			'keyboardPanOffset': 400,
-			'maxBounds': maxBounds,
+			//'maxBounds': maxBounds, 
 			'maxNativeZoom': 0,
 			'maxZoom': 4,
 			'minZoom': 0,
