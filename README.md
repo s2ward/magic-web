@@ -1,6 +1,9 @@
 # Magic Web Explorer
 
-This is to explore what the Warlocks call the Magic Web, and Thaians call [Ley Lines](https://tibia.fandom.com/wiki/Ley_Line) 
+This is to explore what the Warlocks call the [Magic Web](https://talesoftibia.com/libsearch?s=magic+web), drawing '[red lines](https://talesoftibia.com/libsearch?s=red+line)' on maps. We, in Edron call them [Ley Lines](https://tibia.fandom.com/wiki/Ley_Line).
+
+![Ley_Lines](https://github.com/s2ward/magic-web/assets/25346191/4429c7bb-6feb-4231-a7a5-8c0122615ed5)
+Credits: Tibia Wiki  
 
 > Player: ley  
 Milos: Most Tibian cultures have some knowledge about those straight lines that run across the landscape, connecting both, natural and sacred sites. Some also call them 'fairy paths' or 'spirit lines'. ...  
@@ -8,7 +11,9 @@ Milos: As far as I know, in Zao they are called 'dragon lines'. Markers connecti
 
 Essentialy, we can find connections between sites - and that can be fun and interesting.  
 
-see e.g. Alawar, warlock on Senja article on reddit: [weird mystery](https://www.reddit.com/r/SolvingTibia/comments/146rj1t/the_weirdest_mystery_of_the_magic_web/)  
+Spoiler! see e.g. Alawar, warlock on Senja article on reddit: [weird mystery](https://www.reddit.com/r/SolvingTibia/comments/146rj1t/the_weirdest_mystery_of_the_magic_web/)  
+
+The Warlocks have activity in the eastern thais trolls cave. That could be a fun starting point.  
 
 ## About
 
